@@ -1,2 +1,2 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 Plotting earthquakes that have occured across the world within the past week through Javascript technologies and Leaflet.js APIs. In the analysis, tectonic plates are available, as well as four different map styles. On the map you can see all earthquakes along with a legend explaining the meaning of difference in size and color of the plotted bubbles and you can filter by major earthquakes with a magnitude of 4.5 or higher.
